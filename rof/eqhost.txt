@@ -1,2 +1,5 @@
 [LoginServer]
-Host=login.projecteq.net:5999
+Host=login.eqemulator.net:5999
+#Host=login.projecteq.net:5999
+#Host=192.168.0.140:5999
+#Host=192.168.0.5:5999
