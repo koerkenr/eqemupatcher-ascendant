@@ -1,0 +1,26 @@
+version: 20260131ac1846ff02e3e46924ee4ff00802b84d
+downloadprefix: http://downloads.ascendanteq.com/ascendantpatch/rof/
+downloads:
+- name: eqemupatcher.png
+  md5: 0771f50a045da753fb2a8b363d7eed42
+  date: "20260131"
+  size: 1930593
+- name: rof/Resources/BaseData.txt
+  md5: 878851da61b5b3d1ea4963fa9073f212
+  date: "20260131"
+  size: 61817
+- name: rof/Resources/SkillCaps.txt
+  md5: 739dfdc6abfc0968254a199382100296
+  date: "20260131"
+  size: 817887
+- name: rof/dbstr_us.txt
+  md5: 9b2421df582132559edcb9c3face6987
+  date: "20260131"
+  size: 6323877
+- name: rof/spells_us.txt
+  md5: 6a75153783d94369249389c9f080820d
+  date: "20260131"
+  size: 28104869
+- name: rof/testpatcher.txt
+  md5: d41d8cd98f00b204e9800998ecf8427e
+  date: "20260131"
